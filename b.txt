@@ -14,7 +14,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 0.0.0.0 gimp.cc
+# fake gimp site
 0.0.0.0 websim.ai
 0.0.0.0 websim.com
+# ai website creator
 0.0.0.0 inspiredpencil.com
+# scam image hoster
 0.0.0.0 doubleclick.net
+# Google ads
+0.0.0.0 milik.ai
+# this is a fake AI guide site
